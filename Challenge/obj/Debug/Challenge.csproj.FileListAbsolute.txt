@@ -1,0 +1,8 @@
+C:\Users\georg\source\repos\Challenge\Challenge\bin\Debug\Challenge.exe.config
+C:\Users\georg\source\repos\Challenge\Challenge\bin\Debug\Challenge.exe
+C:\Users\georg\source\repos\Challenge\Challenge\bin\Debug\Challenge.pdb
+C:\Users\georg\source\repos\Challenge\Challenge\obj\Debug\Challenge.csproj.AssemblyReference.cache
+C:\Users\georg\source\repos\Challenge\Challenge\obj\Debug\Challenge.csproj.SuggestedBindingRedirects.cache
+C:\Users\georg\source\repos\Challenge\Challenge\obj\Debug\Challenge.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Challenge\Challenge\obj\Debug\Challenge.exe
+C:\Users\georg\source\repos\Challenge\Challenge\obj\Debug\Challenge.pdb
